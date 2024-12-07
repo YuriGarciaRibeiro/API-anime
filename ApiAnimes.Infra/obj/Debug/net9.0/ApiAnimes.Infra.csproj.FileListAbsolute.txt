@@ -1,0 +1,17 @@
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\bin\Debug\net9.0\ApiAnimes.Infra.deps.json
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\bin\Debug\net9.0\ApiAnimes.Infra.runtimeconfig.json
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\bin\Debug\net9.0\ApiAnimes.Infra.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\bin\Debug\net9.0\ApiAnimes.Infra.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\bin\Debug\net9.0\ApiAnimes.Domain.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\bin\Debug\net9.0\ApiAnimes.Domain.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.csproj.AssemblyReference.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.AssemblyInfoInputs.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.AssemblyInfo.cs
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.csproj.CoreCompileInputs.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnime.E274D68D.Up2Date
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\refint\ApiAnimes.Infra.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ApiAnimes.Infra.genruntimeconfig.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Infra\obj\Debug\net9.0\ref\ApiAnimes.Infra.dll

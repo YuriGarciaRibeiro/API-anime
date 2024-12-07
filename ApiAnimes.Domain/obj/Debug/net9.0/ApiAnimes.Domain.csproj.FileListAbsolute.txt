@@ -1,0 +1,11 @@
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\bin\Debug\net9.0\ApiAnimes.Domain.deps.json
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\bin\Debug\net9.0\ApiAnimes.Domain.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\bin\Debug\net9.0\ApiAnimes.Domain.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ApiAnimes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ApiAnimes.Domain.AssemblyInfoInputs.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ApiAnimes.Domain.AssemblyInfo.cs
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ApiAnimes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ApiAnimes.Domain.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\refint\ApiAnimes.Domain.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ApiAnimes.Domain.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Domain\obj\Debug\net9.0\ref\ApiAnimes.Domain.dll

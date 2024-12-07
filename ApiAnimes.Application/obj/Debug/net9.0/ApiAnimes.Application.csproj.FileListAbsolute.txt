@@ -1,0 +1,17 @@
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Application.deps.json
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Application.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Application.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Domain.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Infra.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Domain.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\bin\Debug\net9.0\ApiAnimes.Infra.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.csproj.AssemblyReference.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.AssemblyInfoInputs.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.AssemblyInfo.cs
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.csproj.CoreCompileInputs.cache
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnime.86F3D8DB.Up2Date
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\refint\ApiAnimes.Application.dll
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ApiAnimes.Application.pdb
+C:\Users\yurig\Documents\GitHub\API-anime\ApiAnimes.Application\obj\Debug\net9.0\ref\ApiAnimes.Application.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pI2V4hUYAsGCA9NNnXzHA4J5n0UnjeKA9vYqRTsxckc=",
+  "Source": "ApiAnimes.API",
+  "BasePath": "_content/ApiAnimes.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

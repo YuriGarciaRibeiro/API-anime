@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server
+    container_name: sql_server
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123!
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    networks:
+      - app-network
+
+  api:
+    build:
+      context: .
+      dockerfile: ApiAnimes.API/Dockerfile
+    container_name: api_animes
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DB_USER=sa
+      - DB_PASSWORD=YourStrongPassword123!
+      - API_KEY=YourApiKey
+    ports:
+      - "5000:8080"
+    networks:
+      - app-network
+
+volumes:
+  sqlserver-data:
+
+networks:
+  app-network:
+    driver: bridge
